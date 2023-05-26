@@ -5,3 +5,4 @@ Takeaways from this article
 1. Data analysis: Following the whole data analysis process i.e. from data cleaning to interrupting the insights from the data itself.
 2. Sales insights: Walmart dataset is the real-world data and from this one can learn about sales forecasting and analysis.
 3. Data visualization: Visualization of the data is an important part of the whole data analysis process and here along with seaborn we will be also discussing the Plotly library. Let’s get started!
+![image](https://github.com/Hritikahere/Walmart_Sales_Analysis_through_Data_Visualization/assets/118553851/9557f4a6-4d06-4c26-b8c8-0666d92c116d)
